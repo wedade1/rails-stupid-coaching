@@ -1,0 +1,41 @@
+/* app/assets/stylesheets/application.css */
+
+/* Add custom styles here */
+
+/* Example: Style for the form */
+form {
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Example: Style for the input fields */
+  input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Example: Style for the submit button */
+  input[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #45a049;
+  }
+  
+  /* Example: Style for headings */
+  h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
